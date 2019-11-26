@@ -1,1 +1,3 @@
+aaa
+local file
 aaa EDIT ONLINE
